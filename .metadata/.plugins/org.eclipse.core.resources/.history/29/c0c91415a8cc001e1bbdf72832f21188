@@ -1,0 +1,20 @@
+package com.RadioButtonsTesting;
+
+import org.testng.annotations.Test;
+
+import com.BaseTest.BaseTest;
+
+public class EchoEchoApplication_RadioButtonsTesting extends BaseTest
+{
+
+	@Test
+	public void group1RadioButtonsTesting()
+	{
+		
+		
+	}
+	
+	
+	
+	
+}
